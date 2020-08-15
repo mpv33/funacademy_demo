@@ -591,8 +591,8 @@ footer{
     }
     .selectors a{
         padding: 3px;
-        margin-left: 2px;
-        margin-right: 2px;
+        margin-left: 0px;
+        margin-right: 0px;
         text-decoration: none;
         color: #000;
     }
