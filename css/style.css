@@ -640,7 +640,7 @@ footer{
 @media only screen and (max-width: 600px) {
   .txt-home{
       margin: 0;
-      text-align: left;
+      text-align: center;
       width: 400px;
       height: 400px;
     }
