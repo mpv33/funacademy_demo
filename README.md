@@ -22,13 +22,6 @@ The FunAcademy Portal is a work-in-progress project that aims to provide a wide 
 
 - **YouTube/Facebook Downloader:** Easily download content from popular video-sharing platforms.
 
-## Contributing
-
-We welcome contributions to make FunAcademy Portal even better! Whether you have suggestions, found issues, or want to contribute code, please check out our [Contribution Guidelines](CONTRIBUTING.md) for details on how to get involved.
-
-## License
-
-This project is open-source and is licensed under the [MIT License](LICENSE). Feel free to fork and use it in your own projects.
 
 ## About
 
